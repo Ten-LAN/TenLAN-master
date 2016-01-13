@@ -3,6 +3,13 @@
 *.lo
 *.o
 *.obj
+*.pdb
+*.idb
+*.ilk
+*.log
+*.res
+*.tlog
+*.lastbuildstate
 
 # Compiled Dynamic libraries
 *.so
