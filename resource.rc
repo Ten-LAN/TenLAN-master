@@ -1,0 +1,22 @@
+ICON_64                 ICON                    "icon_64.ico"
+ICON_48                 ICON                    "icon_48.ico"
+ICON_32                 ICON                    "icon_32.ico"
+ICON_16                 ICON                    "icon_16.ico"
+
+IMG_BACK_OP             IMAGE                   "./material/back_op.png"
+IMG_LOGO                IMAGE                   "./material/logo.png"
+IMG_ITEM                IMAGE                   "./material/item.png"
+
+IMG_CATE_ICON           IMAGE                   "./material/cateicon.png"
+
+BGM_TITLE               SOUND                   "./material/BigPresent.ogg"
+SELECT_BGM0             SOUND                   "./material/sky0.ogg"
+SELECT_BGM1             SOUND                   "./material/sky1.ogg"
+SELECT_BGM2             SOUND                   "./material/sky2.ogg"
+SELECT_BGM3             SOUND                   "./material/sky3.ogg"
+SELECT_BGM4             SOUND                   "./material/sky4.ogg" 
+SELECT_BGM5            SOUND                   "./material/TEN_LAN2015_sky.ogg" 
+SELECT_BGM6            SOUND                   "./material/SPACE_OGG.ogg"
+SELECT_BGM7            SOUND                   "./material/SUMMER_OGG.ogg"
+SELECT_SE               SOUND                   "./material/select.wav"
+OK_SE                   SOUND                   "./material/ok.wav"

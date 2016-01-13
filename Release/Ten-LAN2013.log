@@ -1,0 +1,10 @@
+﻿2015/12/11 19:06:49 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Yasainoyama_2\Desktop\x680x0\仕事\tenlan\TenLAN-master2015\Ten-LAN2013.vcxproj" (Build ターゲット)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Ten-LAN2014.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         Ten-LAN2013.vcxproj -> C:\Users\Yasainoyama_2\Desktop\x680x0\仕事\tenlan\TenLAN-master2015\Release\Ten-LAN2015.exe
+     1>プロジェクト "C:\Users\Yasainoyama_2\Desktop\x680x0\仕事\tenlan\TenLAN-master2015\Ten-LAN2013.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.18

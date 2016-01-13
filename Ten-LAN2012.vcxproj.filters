@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース">
+      <UniqueIdentifier>{ceff06a8-d7fd-4b19-9c4f-8cdd0c0326e9}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー">
+      <UniqueIdentifier>{db144c02-64e1-4338-aa4f-8c65f0caad31}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース">
+      <UniqueIdentifier>{214564c4-8573-42ac-bb29-af8038be213f}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="UI\HirokiMetro.cpp">
+      <Filter>ソース</Filter>
+    </ClCompile>
+    <ClCompile Include="common.cpp">
+      <Filter>ソース</Filter>
+    </ClCompile>
+    <ClCompile Include="TenLAN.cpp">
+      <Filter>ソース</Filter>
+    </ClCompile>
+    <ClCompile Include="Ten-LAN_Main.cpp">
+      <Filter>ソース</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icon.ico">
+      <Filter>リソース</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="resource.rc">
+      <Filter>リソース</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="LICENSE.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ten-LAN.h">
+      <Filter>ヘッダー</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>ヘッダー</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\UI.h">
+      <Filter>ヘッダー</Filter>
+    </ClInclude>
+    <ClInclude Include="UIBase.h">
+      <Filter>ヘッダー</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
